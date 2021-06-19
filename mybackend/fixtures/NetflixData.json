@@ -1,0 +1,552 @@
+[
+    {
+        "model": "mybackend.App",
+        "pk": 0,
+        "fields": {
+            "title": "Breaking Bad",
+            "year": 2008,
+            "age_rating": "18+",
+            "imdb_rating": 9.5,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 1,
+        "fields": {
+            "title": "Game of Thrones",
+            "year": 2011,
+            "age_rating": "18+",
+            "imdb_rating": 9.3,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 2,
+        "fields": {
+            "title": "Rick and Morty",
+            "year": 2013,
+            "age_rating": "18+",
+            "imdb_rating": 9.2,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 3,
+        "fields": {
+            "title": "Dark",
+            "year": 2017,
+            "age_rating": "16+",
+            "imdb_rating": 8.8,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 4,
+        "fields": {
+            "title": "Stranger Things",
+            "year": 2016,
+            "age_rating": "16+",
+            "imdb_rating": 8.8,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 5,
+        "fields": {
+            "title": "Avatar: The Last Airbender",
+            "year": 2005,
+            "age_rating": "7+",
+            "imdb_rating": 9.2,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 6,
+        "fields": {
+            "title": "Sherlock",
+            "year": 2010,
+            "age_rating": "16+",
+            "imdb_rating": 9.1,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 7,
+        "fields": {
+            "title": "Chernobyl",
+            "year": 2019,
+            "age_rating": "18+",
+            "imdb_rating": 9.4,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 8,
+        "fields": {
+            "title": "Friends",
+            "year": 1994,
+            "age_rating": "16+",
+            "imdb_rating": 8.9,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 9,
+        "fields": {
+            "title": "The Office",
+            "year": 2005,
+            "age_rating": "16+",
+            "imdb_rating": 8.9,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 10,
+        "fields": {
+            "title": "Better Call Saul",
+            "year": 2015,
+            "age_rating": "18+",
+            "imdb_rating": 8.7,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 11,
+        "fields": {
+            "title": "The Wire",
+            "year": 2002,
+            "age_rating": "18+",
+            "imdb_rating": 9.3,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 12,
+        "fields": {
+            "title": "Supernatural",
+            "year": 2005,
+            "age_rating": "16+",
+            "imdb_rating": 8.4,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 13,
+        "fields": {
+            "title": "Fargo",
+            "year": 2014,
+            "age_rating": "18+",
+            "imdb_rating": 8.9,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 14,
+        "fields": {
+            "title": "Black Mirror",
+            "year": 2011,
+            "age_rating": "18+",
+            "imdb_rating": 8.8,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 15,
+        "fields": {
+            "title": "Band of Brothers",
+            "year": 2001,
+            "age_rating": "18+",
+            "imdb_rating": 9.4,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 16,
+        "fields": {
+            "title": "Attack on Titan",
+            "year": 2013,
+            "age_rating": "16+",
+            "imdb_rating": 8.8,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 17,
+        "fields": {
+            "title": "House",
+            "year": 2004,
+            "age_rating": "16+",
+            "imdb_rating": 8.7,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 18,
+        "fields": {
+            "title": "Money Heist",
+            "year": 2017,
+            "age_rating": "18+",
+            "imdb_rating": 8.4,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 19,
+        "fields": {
+            "title": "Peaky Blinders",
+            "year": 2013,
+            "age_rating": "18+",
+            "imdb_rating": 8.8,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 20,
+        "fields": {
+            "title": "Mr. Robot",
+            "year": 2015,
+            "age_rating": "18+",
+            "imdb_rating": 8.5,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 21,
+        "fields": {
+            "title": "Vikings",
+            "year": 2013,
+            "age_rating": "18+",
+            "imdb_rating": 8.5,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 22,
+        "fields": {
+            "title": "The Sopranos",
+            "year": 1999,
+            "age_rating": "18+",
+            "imdb_rating": 9.2,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 23,
+        "fields": {
+            "title": "The Simpsons",
+            "year": 1989,
+            "age_rating": "7+",
+            "imdb_rating": 8.7,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 24,
+        "fields": {
+            "title": "The Mandalorian",
+            "year": 2019,
+            "age_rating": "7+",
+            "imdb_rating": 8.7,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 25,
+        "fields": {
+            "title": "Lost",
+            "year": 2004,
+            "age_rating": "16+",
+            "imdb_rating": 8.3,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 26,
+        "fields": {
+            "title": "Westworld",
+            "year": 2016,
+            "age_rating": "18+",
+            "imdb_rating": 8.7,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 27,
+        "fields": {
+            "title": "The Umbrella Academy",
+            "year": 2019,
+            "age_rating": "16+",
+            "imdb_rating": 8.0,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 28,
+        "fields": {
+            "title": "Narcos",
+            "year": 2015,
+            "age_rating": "18+",
+            "imdb_rating": 8.8,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 29,
+        "fields": {
+            "title": "True Detective",
+            "year": 2014,
+            "age_rating": "18+",
+            "imdb_rating": 9.0,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 30,
+        "fields": {
+            "title": "Marvel's Daredevil",
+            "year": 2015,
+            "age_rating": "18+",
+            "imdb_rating": 8.6,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 31,
+        "fields": {
+            "title": "Brooklyn Nine-Nine",
+            "year": 2013,
+            "age_rating": "16+",
+            "imdb_rating": 8.4,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 32,
+        "fields": {
+            "title": "The Walking Dead",
+            "year": 2010,
+            "age_rating": "18+",
+            "imdb_rating": 8.2,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 33,
+        "fields": {
+            "title": "Parks and Recreation",
+            "year": 2009,
+            "age_rating": "16+",
+            "imdb_rating": 8.6,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 34,
+        "fields": {
+            "title": "Mindhunter",
+            "year": 2017,
+            "age_rating": "18+",
+            "imdb_rating": 8.6,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 35,
+        "fields": {
+            "title": "South Park",
+            "year": 1997,
+            "age_rating": "18+",
+            "imdb_rating": 8.7,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 36,
+        "fields": {
+            "title": "Suits",
+            "year": 2011,
+            "age_rating": "16+",
+            "imdb_rating": 8.5,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 37,
+        "fields": {
+            "title": "Hannibal",
+            "year": 2013,
+            "age_rating": "18+",
+            "imdb_rating": 8.5,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 38,
+        "fields": {
+            "title": "Dexter",
+            "year": 2006,
+            "age_rating": "18+",
+            "imdb_rating": 8.6,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 39,
+        "fields": {
+            "title": "Community",
+            "year": 2009,
+            "age_rating": "7+",
+            "imdb_rating": 8.5,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 40,
+        "fields": {
+            "title": "Fringe",
+            "year": 2008,
+            "age_rating": "16+",
+            "imdb_rating": 8.4,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 41,
+        "fields": {
+            "title": "Modern Family",
+            "year": 2009,
+            "age_rating": "16+",
+            "imdb_rating": 8.4,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 42,
+        "fields": {
+            "title": "The Big Bang Theory",
+            "year": 2007,
+            "age_rating": "16+",
+            "imdb_rating": 8.1,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 43,
+        "fields": {
+            "title": "Firefly",
+            "year": 2002,
+            "age_rating": "16+",
+            "imdb_rating": 9.0,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 44,
+        "fields": {
+            "title": "Mad Men",
+            "year": 2007,
+            "age_rating": "16+",
+            "imdb_rating": 8.6,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 45,
+        "fields": {
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "year": 2009,
+            "age_rating": "18+",
+            "imdb_rating": 9.1,
+            "on_netflix": 0
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 46,
+        "fields": {
+            "title": "Ozark",
+            "year": 2017,
+            "age_rating": "18+",
+            "imdb_rating": 8.4,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 47,
+        "fields": {
+            "title": "The Witcher",
+            "year": 2019,
+            "age_rating": "18+",
+            "imdb_rating": 8.2,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 48,
+        "fields": {
+            "title": "Lucifer",
+            "year": 2016,
+            "age_rating": "16+",
+            "imdb_rating": 8.2,
+            "on_netflix": 1
+        }
+    },
+    {
+        "model": "mybackend.App",
+        "pk": 49,
+        "fields": {
+            "title": "It's Always Sunny in Philadelphia",
+            "year": 2005,
+            "age_rating": "18+",
+            "imdb_rating": 8.8,
+            "on_netflix": 0
+        }
+    }
+]
