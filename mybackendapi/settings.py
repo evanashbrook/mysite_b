@@ -89,7 +89,7 @@ DATABASES = {
 DATABASES['default'] = dj_database_url.config(
     conn_max_age=600, ssl_require=True)
 DATABASES['default']['ENGINE'] = 'django.db.backends.postgresql_psycopg2'
-# DATABASES['default']['NAME'] = 'my_db'
+DATABASES['default']['NAME'] = 'my_db'
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
